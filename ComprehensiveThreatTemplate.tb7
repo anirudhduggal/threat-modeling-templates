@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KnowledgeBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Manifest name="ComprehensiveThreatModellingTemplate" id="55323d2c-c255-4565-8830-5aead044f627" version="1.0.0.1" author="DESKTOP-491ODP2\Aniru" />
+  <ThreatMetaData>
+    <IsPriorityUsed>true</IsPriorityUsed>
+    <IsStatusUsed>true</IsStatusUsed>
+    <PropertiesMetaData>
+      <ThreatMetaDatum>
+        <Name>Title</Name>
+        <Label>Title</Label>
+        <HideFromUI>false</HideFromUI>
+        <Values>
+          <Value />
+        </Values>
+        <Id>90ae936a-b9e9-46fa-aec4-6e8b86918f3d</Id>
+        <AttributeType>0</AttributeType>
+      </ThreatMetaDatum>
+      <ThreatMetaDatum>
+        <Name>UserThreatCategory</Name>
+        <Label>Category</Label>
+        <HideFromUI>false</HideFromUI>
+        <AttributeType>0</AttributeType>
+      </ThreatMetaDatum>
+      <ThreatMetaDatum>
+        <Name>UserThreatShortDescription</Name>
+        <Label>Short Description</Label>
+        <HideFromUI>false</HideFromUI>
+        <Values>
+          <Value />
+        </Values>
+        <Id>a6b0513e-8b3f-4bb0-9f64-3334b1c4510a</Id>
+        <AttributeType>0</AttributeType>
+      </ThreatMetaDatum>
+      <ThreatMetaDatum>
+        <Name>UserThreatDescription</Name>
+        <Label>Description</Label>
+        <HideFromUI>false</HideFromUI>
+        <Values>
+          <Value />
+        </Values>
+        <Id>346076e6-4342-473f-a416-fb6b46edcf0b</Id>
+        <AttributeType>0</AttributeType>
+      </ThreatMetaDatum>
+      <ThreatMetaDatum>
+        <Name>StateInformation</Name>
+        <Label>Justification</Label>
+        <HideFromUI>false</HideFromUI>
+        <Values>
+          <Value />
+        </Values>
+        <Id>fd46c15d-204d-4967-b40a-4421457afe76</Id>
+        <AttributeType>0</AttributeType>
+      </ThreatMetaDatum>
+      <ThreatMetaDatum>
+        <Name>InteractionString</Name>
+        <Label>Interaction</Label>
+        <HideFromUI>false</HideFromUI>
+        <Id>e3e57403-f5e6-4b45-ab4c-dddd84c22292</Id>
+        <AttributeType>0</AttributeType>
+      </ThreatMetaDatum>
+      <ThreatMetaDatum>
+        <Name>Priority</Name>
+        <Label>Priority</Label>
+        <HideFromUI>false</HideFromUI>
+        <Values>
+          <Value>High</Value>
+          <Value>Medium</Value>
+          <Value>Low</Value>
+        </Values>
+        <Description>Priority</Description>
+        <Id>4a519edf-d4bc-49fb-9d02-bebc7fd9c497</Id>
+        <AttributeType>1</AttributeType>
+      </ThreatMetaDatum>
+    </PropertiesMetaData>
+  </ThreatMetaData>
+  <GenericElements>
+    <ElementType>
+      <Name>Free Text Annotation</Name>
+      <ID>GE.A</ID>
+      <Description>A representation of an annotation.</Description>
+      <ParentElement>ROOT</ParentElement>
+      <Hidden>true</Hidden>
+      <Representation>Annotation</Representation>
+      <StrokeThickness>0</StrokeThickness>
+      <Attributes />
+      <StencilConstraints />
+    </ElementType>
+  </GenericElements>
+  <StandardElements />
+  <ThreatCategories />
+  <ThreatTypes />
+</KnowledgeBase>
